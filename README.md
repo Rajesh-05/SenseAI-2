@@ -44,6 +44,20 @@ SENSE AI - Education Evolved. Let's learn together! 🌟🚀
 
 ### Screenshots
 
+![Screenshot (349)](https://github.com/Rajesh-05/SenseAI/assets/136327657/6d9faa92-d240-4b5e-bae8-f420898f415d)
+
+![Screenshot (350)](https://github.com/Rajesh-05/SenseAI/assets/136327657/5a989917-f857-4f55-9aed-f02da25aed47)
+
+![Screenshot (351)](https://github.com/Rajesh-05/SenseAI/assets/136327657/fc112b40-0b47-4c58-97b5-c0c7d74e2fe2)
+
+![Screenshot (352)](https://github.com/Rajesh-05/SenseAI/assets/136327657/a11b1960-e7d1-4de2-8a6f-783469da681f)
+
+![Screenshot (353)](https://github.com/Rajesh-05/SenseAI/assets/136327657/93220560-309d-4653-ac2b-96635536039d)
+
+![Screenshot (355)](https://github.com/Rajesh-05/SenseAI/assets/136327657/820ecc55-d8ff-4031-a1a0-701bc5caf481)
+
+![Screenshot (356)](https://github.com/Rajesh-05/SenseAI/assets/136327657/cd16e770-b04e-4492-8086-d92364e25f31)
+
 
 ## Getting Started
 
