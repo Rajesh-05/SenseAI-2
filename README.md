@@ -4,11 +4,19 @@ Welcome to the world of SENSE AI, your one-stop shop for powerful, offline educa
 
 ## Links
 
-[Youtube](https://youtu.be/CBJfKwn7hHI?si=DhCEfWACsevp1sNg)
 
-[Figma](https://www.figma.com/proto/8KM3s2RNGBOWE8lIrV1xxG/presentation?node-id=1-686&starting-point-node-id=1%3A686&scaling=scale-down-width&content-scaling=fixed&t=D9ih5Jq0bCQVHBrC-1)
+https://github.com/Rajesh-05/SenseAI/assets/136327019/ef559ecc-59e9-4a5a-b57d-a3b9b67b8999
 
-[Canva](https://www.canva.com/design/DAGDPjrKrBc/8o-GMmyZsekw3U4SEuUBag/edit?utm_content=DAGDPjrKrBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+[Youtube_link](https://youtu.be/CBJfKwn7hHI?si=DhCEfWACsevp1sNg)
+
+![image](https://github.com/Rajesh-05/SenseAI/assets/136327019/d09a6a4e-8225-4937-b24d-847dfdfee604)
+
+[Figma_link](https://www.figma.com/proto/8KM3s2RNGBOWE8lIrV1xxG/presentation?page-id=0%3A1&node-id=22-306&viewport=4130%2C-5066%2C0.31&t=avb8sSQwqHyRpDGK-1&scaling=min-zoom&starting-point-node-id=19%3A1314&content-scaling=fixed)
+
+![senseai flowchart](https://github.com/Rajesh-05/SenseAI/assets/136327019/94ebc8ef-0e07-4df4-95b6-f475cd3ad286)
+
+[Canva_link](https://www.canva.com/design/DAGDPjrKrBc/8o-GMmyZsekw3U4SEuUBag/edit?utm_content=DAGDPjrKrBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Features
 
